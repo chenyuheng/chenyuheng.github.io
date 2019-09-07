@@ -11,6 +11,7 @@ CS undergraduate student in SUSTech, currently non-graduating student in NUS. In
 
 ### current courses
 
-- [Computer Networks (Chinese and English, latest update at 2019/9/3)](notebooks/Computer Networks.pdf)
-- [Object-Oriented Programming (English with a little Chinese, latest update at 2019/8/30)](notebooks/Object-Oriented Programming.pdf)
+- [Computer Networks.pdf (Chinese and English, latest update at 2019/9/3)](notebooks/Computer Networks.pdf)
+- [Object-Oriented Programming.pdf (English with a little Chinese, latest update at 2019/8/30)](notebooks/Object-Oriented Programming.pdf)
+- [Operating System.pdf (English with a little Chinese, latest update at 2019/9/7)](notebooks/Operating System.pdf)
 
