@@ -13,5 +13,5 @@ CS undergraduate student in SUSTech, currently non-graduating student in NUS. In
 
 - [Computer Networks.pdf (Chinese and English, latest update at 2019/9/3)](notebooks/Computer Networks.pdf)
 - [Object-Oriented Programming.pdf (English with a little Chinese, latest update at 2019/8/30)](notebooks/Object-Oriented Programming.pdf)
-- [Operating System.pdf (English with a little Chinese, latest update at 2019/9/7)](notebooks/Operating System.pdf)
+- [Operating System.pdf (English with a little Chinese, latest update at 2019/10/15)](notebooks/Operating System.pdf)
 
