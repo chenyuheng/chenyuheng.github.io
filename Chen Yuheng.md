@@ -18,7 +18,7 @@ Recommending Potentially Negative Google Play Review for Android Apps. This proj
 
 ### Small Webpage Tools
 
+* [SUSTech GPA Calculator](https://github.com/chenyuheng/SUSTech-GPA-Calculator): GPA Calculator for SUSTech students.
 * [Vertical Writing Converter](https://chenyuheng.github.io/Vertical-Writing-Converter/): convert text (mainly for Chinese) to the vertical writing form.
 * [Stylish Text Converter](https://chenyuheng.github.io/Stylish-Text/): convert text (mainly for English) to stylish text.
 * [Nine-Nine Cold Vanishing Drawing](https://chenyuheng.github.io/Nine-Nine-Cold-Vanishing-Drawing/): automated displaying of this traditional Chinese culture activity.
-
