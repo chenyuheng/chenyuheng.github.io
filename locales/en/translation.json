@@ -1,0 +1,34 @@
+{
+	"陈宇恒": "Chen Yuheng (陈宇恒)",
+	"关于我": "About Me",
+	"项目": "Projects",
+	"课程项目": "Course Projects",
+	"玩儿的东西": "Projects for Fun",
+	"杂乱的项目": "Misc",
+
+	"about-1": "Hello, I am Chen Yuheng (陈宇恒), a newbie coder. Currently living in Shenzhen, work in Tencent, doing CDN related developing.",
+	"about-2": "2017 to 2021, I finished my bachalor degree in SUSTech, major in Computer Science and Technology; from 2022, I started my online master degree in Gatech, major in Computer Science.",
+	"about-3": "Welcome to take a look at my GitHub profile: ",
+
+	"CS207": ": a digital alarm clock, the course project for Digital Logic.",
+	"SWS3007": ": Haha & Coco, a 2D webpage game, course project in Summer Workshop of NUS.",
+	"CS2013": ": Team Manager, course project for Software Engineering & Object-Oriented Programming.",
+	"CS301": ": Bluetooth message tool, the course project for Embedded Systems.",
+	"CS323": "：Super easy compiler, course project for Compilers",
+
+	"竖排文字转换器": "Vertical Writing Converter",
+	"风格文字转换器": "Stylish Text Converter",
+	"九九消寒图": "Nine-Nine Cold Vanishing Drawing",
+	"南科大 GPA 计算器（本科）": "SUSTech GPA Calculator",
+	"Sakai 站点资源导出器": "Sakai Exporter",
+	"《线性代数应该这样学》的笔记": "Notes for Linear Algebra Done Right",
+	"头像画廊": "Avatar Gallery",
+
+	"vertical-converter": ": convert text (mainly for Chinese) to the vertical writing form.",
+	"stylish-converter": ": convert text (mainly for English) to stylish text.",
+	"9-9": ": automated displaying of this traditional Chinese culture activity.",
+	"GPA-calculator": ": GPA Calculator for SUSTech students.",
+	"sakai-exporter": ": Scripts to export all resources (files) in a Sakai site.",
+	"ladr-notes": ": Didn't finish.",
+	"avatar-gallery": ": A series of my history avatars."
+}
