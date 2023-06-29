@@ -7,8 +7,8 @@ const lang_dict = {
         "fun-projects": "Projects for Fun",
         "misc-projects": "Misc",
     
-        "about-1": "Hello, I am Chen Yuheng (陈宇恒), a newbie coder. Currently living in Shenzhen, work in Tencent, doing CDN related developing.",
-        "about-2": "2017 to 2021, I finished my bachalor degree in SUSTech, major in Computer Science and Technology; from 2022 Spring, I started my online master degree in <a href=\"https://sites.gatech.edu/yuheng\" target=\"_blank\">Georgia Tech</a>, major in Computer Science.",
+        "about-1": "Hello, I am Chen Yuheng (陈宇恒). Currently living in Atlanta, studying for Master of Science in Computer Science.",
+        "about-2": "2017 to 2021, I finished my bachalor degree in SUSTech, major in Computer Science and Technology; from Jul. 2021 to Dec. 2022, I worked in Tencent as a backend developer, working in CDN related development; from 2023 Spring, I started my master program in Atlanta.",
         "about-3": "Welcome to take a look at my GitHub profile:  <a href=\"https://github.com/chenyuheng\" target=\"_blank\">https://github.com/chenyuheng</a>",
     
         "CS207-description": ": a digital alarm clock, the course project for Digital Logic.",
@@ -17,6 +17,8 @@ const lang_dict = {
         "CS301-description": ": Bluetooth message tool, the course project for Embedded Systems.",
         "CS323-description": "：Super easy compiler, course project for Compilers",
 
+        "yunying": "Yunying HTTP Server",
+        "world-clock": "World Clock",
         "chemidle": "Chemidle",
         "vertical-converter": "Vertical Writing Converter",
         "stylish-converter": "Stylish Text Converter",
@@ -25,7 +27,9 @@ const lang_dict = {
         "sakai-exporter": "Sakai Exporter",
         "ladr-notes": "Notes for Linear Algebra Done Right",
         "avatar-gallery": "Avatar Gallery",
-    
+
+        "yunying-description": ": Simple and high-performance HTTP server which supports static file serving and reverse proxy. Using epoll.",
+        "world-clock-description": ": World clock with longitude local time support. Written with React.",
         "chemidle-description": ": Chemical equation Wordle",
         "vertical-converter-description": ": convert text (mainly for Chinese) to the vertical writing form.",
         "stylish-converter-description": ": convert text (mainly for English) to stylish text.",
@@ -43,8 +47,8 @@ const lang_dict = {
         "fun-projects": "玩儿的东西",
         "misc-projects": "杂乱的项目",
     
-        "about-1": "你好，我是陈宇恒，是一个新手码农。现居深圳，在腾讯做 CDN 相关的开发。",
-        "about-2": "2017 年到 2021 年，在南方科技大学读完了计算机科学与技术的本科。2022 年春季学期开始在<a href=\"https://sites.gatech.edu/yuheng\" target=\"_blank\">佐治亚理工学院</a>读计算机科学的在线硕士。",
+        "about-1": "你好，我是陈宇恒。现居亚特兰大，在佐治亚理工学院修读计算机科学硕士学位。",
+        "about-2": "2017 年到 2021 年，在南方科技大学读完了计算机科学与技术的本科。2021 年 7 月到 2022 年 12 月在腾讯工作，主要工作内容为 CDN 相关的开发。2023 年春开始在亚特兰大修读硕士学位。",
         "about-3": "欢迎瞅瞅我的 GitHub 主页： <a href=\"https://github.com/chenyuheng\" target=\"_blank\">https://github.com/chenyuheng</a>",
     
         "CS207-description": "：《数字逻辑》的课程项目，FPGA 数字时钟。",
@@ -53,6 +57,8 @@ const lang_dict = {
         "CS301-description": "：《嵌入式系统与微机原理》的课程项目，蓝牙聊天器。",
         "CS323-description": "：《编译原理》的课程项目，超简单的编译器。",
 
+        "yunying": "Yunying HTTP 服务器",
+        "world-clock": "世界时钟",
         "chemidle": "Chemidle",
         "vertical-converter": "竖排文字转换器",
         "stylish-converter": "风格文字转换器",
@@ -62,7 +68,9 @@ const lang_dict = {
         "ladr-notes": "《线性代数应该这样学》的笔记",
         "avatar-gallery": "头像画廊",
 
-        "chemidle-description": "：化学方程式 Wordle",
+        "yunying-description": "：简单高性能的 HTTP 服务器，支持静态文件服务、反向代理与内存缓存。",
+        "world-clock-description": "：使用 React 开发的支持经度地方时的世界时钟。",
+        "chemidle-description": "：化学方程式版的 Wordle 游戏",
         "vertical-converter-description": "：通过改变排版强行把中文转成竖的。",
         "stylish-converter-description": "：通过替换字符强行给英文加样式。",
         "9-9-description": "：自动显示当天的九九消寒图（只在冬天会有涂画哦）。",
