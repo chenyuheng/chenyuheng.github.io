@@ -17,6 +17,8 @@ const lang_dict = {
         "CS301-description": ": Bluetooth message tool, the course project for Embedded Systems.",
         "CS323-description": "：Super easy compiler, course project for Compilers",
 
+        "zdic-chrome": "Zdic Chrome Extension",
+        "simple-mail": "Simple Mail Webpage Client",
         "yunying": "Yunying HTTP Server",
         "world-clock": "World Clock",
         "chemidle": "Chemidle",
@@ -28,6 +30,8 @@ const lang_dict = {
         "ladr-notes": "Notes for Linear Algebra Done Right",
         "avatar-gallery": "Avatar Gallery",
 
+        "zdic-chrome-description": ": Zdic Chrome Extension, provides quick dictionary lookup service for Chinese users.",
+        "simple-mail-description": ": A simple webpage email client, supports subsets of POP3 and MIME with Spring Boot API proxy. Supports quick deployment using Docker Compose.",
         "yunying-description": ": Simple and high-performance HTTP server which supports static file serving and reverse proxy. Using epoll.",
         "world-clock-description": ": World clock with longitude local time support. Written with React.",
         "chemidle-description": ": Chemical equation Wordle",
@@ -57,6 +61,8 @@ const lang_dict = {
         "CS301-description": "：《嵌入式系统与微机原理》的课程项目，蓝牙聊天器。",
         "CS323-description": "：《编译原理》的课程项目，超简单的编译器。",
 
+        "zdic-chrome": "汉典 Chrome 插件",
+        "simple-mail": "Simple Mail 网页邮箱客户端",
         "yunying": "Yunying HTTP 服务器",
         "world-clock": "世界时钟",
         "chemidle": "Chemidle",
@@ -68,6 +74,8 @@ const lang_dict = {
         "ladr-notes": "《线性代数应该这样学》的笔记",
         "avatar-gallery": "头像画廊",
 
+        "zdic-chrome-description": "：汉典 chrome 插件，提供快捷的中英文字典查询服务。",
+        "simple-mail-description": "：一个简单的网页邮箱终端，利用 Spring Boot API 代理部分支持 POP3 协议与 MIME 格式，支持 Docker Compose 快速部署。",
         "yunying-description": "：简单高性能的 HTTP 服务器，支持静态文件服务、反向代理与内存缓存。",
         "world-clock-description": "：使用 React 开发的支持经度地方时的世界时钟。",
         "chemidle-description": "：化学方程式版的 Wordle 游戏",
